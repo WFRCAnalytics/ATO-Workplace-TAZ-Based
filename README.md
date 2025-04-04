@@ -1,4 +1,4 @@
-# Workplace-ATO-TAZ-based
+# ATO-Workplace-TAZ-Based
 Code base for calculating traffic analysis zone (TAZ) based workplace Access To Opportunities metrics
 
 This repo will contain the code used to calc regional workplace ATO ([GIS dataset](http://data.wfrc.org/datasets/access-to-opportunity-work-related-taz-based)) and produce local area calculations like these:
